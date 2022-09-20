@@ -1,10 +1,9 @@
 #include<allegro5/allegro.h>
 #include<allegro5/allegro_primitives.h>
 
-const int width = 500; //variável para largura do display
-const int height = 700; //variável para altura do display
+const int width = 800; //variável para largura do display
+const int height = 600; //variável para altura do display
 
-// teste final GIT + github
 
 int main(void) {
 
