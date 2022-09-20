@@ -4,9 +4,7 @@
 const int width = 500; //variável para largura do display
 const int height = 700; //variável para altura do display
 
-// teste 2 funcionamento GIT
-
-// funcionamento novamente
+// teste final GIT + github
 
 int main(void) {
 
