@@ -86,6 +86,7 @@ int main(void) {
 				altera_x = altera_x + 600;
 			}
 		}
+
 		// quando a tecla for solta, faça:
 		if (ev.type == ALLEGRO_EVENT_KEY_UP)
 		{
