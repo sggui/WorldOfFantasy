@@ -1,4 +1,2 @@
 ﻿  main.cpp
-main.obj : error LNK2019: símbolo externo não resolvido, __imp_al_init_primitives_addon, referenciado na função main
-main.obj : error LNK2019: símbolo externo não resolvido, __imp_al_draw_filled_circle, referenciado na função main
-C:\Users\Pichau\source\repos\World Of Fantasy\x64\Debug\World Of Fantasy.exe : fatal error LNK1120: 2 externo não resolvidos
+  World Of Fantasy.vcxproj -> C:\Users\Pichau\source\repos\World Of Fantasy\x64\Debug\World Of Fantasy.exe
